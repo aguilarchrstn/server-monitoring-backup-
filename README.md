@@ -1,6 +1,4 @@
-DevOps Interview Answers & Portfolio Package
 
-1. GitHub Portfolio README (polished)
 --------------------------------------
 # Christian S. Aguilar – DevOps & System Administrator Portfolio
 
