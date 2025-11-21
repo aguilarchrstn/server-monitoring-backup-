@@ -1,0 +1,2 @@
+*/5 * * * * /bin/bash /home/user/monitor.sh
+0 2 * * * /bin/bash /home/user/backup.sh
